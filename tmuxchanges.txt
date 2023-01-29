@@ -1,0 +1,12 @@
+Rather than changing any of the commands, I decided to just change
+some aesthetic features of tmux which would make it more apparent
+that a tmux session is active. So, I modified the pane border and
+terminal window colors, and just for fun changed the color of the 
+status bar.
+
+setw -g pane-border-style fg=magenta,bg=black
+setw -g pane-active-border-style fg=white,bg=yellow
+setw -g window-style fg=colour7,bg=colour23
+set -g message-style fg=white,bold,bg=colour56
+set -g status-bg magenta
+
