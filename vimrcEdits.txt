@@ -1,12 +1,12 @@
-" Ignore capital letters during search.
+# Ignore capital letters during search
 set ignorecase
 
-" Override ignorecase so that you can search specifically
-" for case-specific terms
+# Override ignorecase so that you can search specifically
+# for case-specific terms
 set smartcase
 
-" Show matching words during a search.
+# Show matching words during a search.
 set showmatch
 
-" Use highlighting when doing a search.
+# Use highlighting when doing a search.
 set hlsearchs
