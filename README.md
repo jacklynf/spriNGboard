@@ -1,1 +1,1 @@
-SpriNGboard weekly exercises will be pushed to this repo. 
+SpriNGboard weekly exercises can be found on their respective branches. :)
