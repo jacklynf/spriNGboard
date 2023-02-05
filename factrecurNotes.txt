@@ -1,0 +1,1 @@
+I think because the recursive Fibonacci sequence took so long, I expected the factorial to take a long time, as well. But each iteration of the outer for-loop was pretty fast. I suspect this is because fact() only calls itself once.

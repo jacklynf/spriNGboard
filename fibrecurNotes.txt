@@ -1,0 +1,1 @@
+The most notable thing about running this program is how long it took to calculate the numbers toward the end! While it was notable, it does make sense. Each subsequent call to fib added another call stack so as N got large, so did the current call stack. This would definitely take some time to get through, as we can see by the elapsed time output.
