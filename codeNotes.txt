@@ -1,0 +1,3 @@
+I didn't notice any difference in the output or even the speed at which the files produce their corresponding output.
+The only thing I found to be noteworthy was that, as expected, the return function will only return one kind of data type, so I opted to cast 
+N to a string if it was not divisible by 3 or 5 so that the return function could return strings on each iteration of the for-loop. 
