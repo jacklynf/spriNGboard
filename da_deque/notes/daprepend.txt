@@ -1,1 +1,2 @@
-Yowza this take a long time compared to append! It's interesting that you can still see the time at the 2^nth index still takes longer, but if I didn't know to look there then I wouldn't have noticed since the surrounding time values take such a long time.
+Yowza this take a long time compared to append! It's interesting that you can still see the time at the 2^nth index still takes longer, 
+but if I didn't know to look there then I wouldn't have noticed since the surrounding time values take such a long time.
