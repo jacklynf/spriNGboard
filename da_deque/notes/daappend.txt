@@ -1,0 +1,1 @@
+It is very cool to see the values consistently increase when the new space is allocated. It helps to see this actually happening to solidify the concept of amortization in my head.

@@ -1,0 +1,1 @@
+This seems like it took the same amount of time to prepend as it did to append. 
