@@ -1,1 +1,3 @@
-This program was so much faster than the recursive Fibonacci sequence! This program completed in fractions of a second, whereas the recursive implementation took almost 7 seconds to complete just fib(44). This was to be expected, though, since fib() calls itself twice, so it has multiple call stacks on each call to it.
+This program was so much faster than the recursive Fibonacci sequence! This program completed in fractions of a second, whereas the recursive
+implementation took almost 7 seconds to complete fib(44). This was to be expected, though, since fib() calls itself twice, so it has 
+multiple call stacks on each call to it.
