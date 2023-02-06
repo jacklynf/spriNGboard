@@ -1,1 +1,5 @@
-It took me a while to figure out why the values were consistently different at smaller index increments compared to append in dynamic array. But after our session tonight I now know it's because the deque allocates small chunks at a time. It's also interesting to see how much quicker it is to allocate these small chunks than to double the dynamic array size when you get to large values... the deque seems to be averaging somewhere above 100ns whereas creating the new vector toward the end of the 10,000 iterations took over 30,000ns (and one run took 100,000+ ns).
+It took me a while to figure out why the values were consistently different at smaller index increments compared to append 
+in dynamic array. But after our session tonight I now know it's because the deque allocates small chunks at a time. It's 
+also interesting to see how much quicker it is to allocate these small chunks than to double the dynamic array size when 
+you get to large values... the deque seems to be averaging somewhere above 100ns whereas creating the new vector toward 
+the end of the 10,000 iterations took over 30,000ns (and one run took 100,000+ ns).
